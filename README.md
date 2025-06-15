@@ -332,7 +332,8 @@ In the West region, all closed GTK 500 deals for the year were recorded, with no
 
 
 
-![image](https://github.com/user-attachments/assets/6dbe66c5-c369-4380-bab3-f1404c2848f0)
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/17431913-a904-4f15-9e34-29bbcf452c9e" />
+
 
 
 
