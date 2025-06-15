@@ -375,11 +375,37 @@ The surge in pipeline activity during Q2 – Q3 and the 2,089 open opportunities
 -**Re-position or bundle MG Special** – Given its low revenue impact, evaluate bundling, price adjustment, or market repositioning to improve its contribution or phase it out if margins are weak.
 
 
+## Clarifying Questions,Assumptions and Caveats
 
+Questions to Stakeholders prior to advancement-
 
+-Should early-stage “Prospecting” opportunities be included in total pipeline volume and trend analysis, or should they be excluded until engagement begins?
 
+-Are sales opportunities assigned to agents or sourced individually?
+(This helps determine if performance is based on assignment efficiency or agent initiative.)
 
+-Is “GTX Pro” in the Products table the same as “GTXPro” in the Sales Pipeline table?
+(Clarifies potential data entry issues that may affect product-level analysis.)
 
+-Are there defined profit margins per product that could be used in performance analysis, or should analysis rely solely on revenue and win rates?
 
+**Assumptions**
 
+-All records, including those in the Prospecting stage, are considered part of the total opportunity count unless filtered explicitly.
+
+-Win Rate and Revenue are used as primary performance KPIs due to the absence of profit or cost data.
+
+-Each opportunity is assigned to a sales agent and evaluated based on their outcomes.
+
+-“GTX Pro” and “GTXPro” refer to the same product and have been treated as such during data modeling.
+
+**Caveats**
+
+-Profit-related metrics could not be calculated due to lack of cost or margin data.
+
+-Date inconsistencies between engagement and closing phases (e.g., blanks or out-of-sequence records) may impact timeline analysis.
+
+-Open opportunities (with no closing date) result in blanks in quarter-based slicers and charts
+
+-The dataset reflects only deals from 2017, limiting the ability to assess long-term trends.
 
