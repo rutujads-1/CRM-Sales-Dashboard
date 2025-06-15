@@ -200,13 +200,14 @@ o	The West increased from October to November but declined slightly in December.
 
 
 
-![image](https://github.com/user-attachments/assets/d9b485c9-3d42-4889-bd5d-8b2774c11f2a)
+![image](https://github.com/user-attachments/assets/7ad5a6ec-92bf-4668-ae05-c18618b59e34)
 
 
 
 
 
-![image](https://github.com/user-attachments/assets/b8ad2124-4bec-4ace-9555-bf52cb98a707)
+![image](https://github.com/user-attachments/assets/789dde63-66ed-4a87-abf2-1fa5d4c2435d)
+
 
 
 
@@ -231,7 +232,8 @@ Opportunity Volume-
 
 
 
-![image](https://github.com/user-attachments/assets/88bd7c9e-76b1-4131-b3f4-e195125439f4)
+![image](https://github.com/user-attachments/assets/527356ee-e43d-4bb9-a5b1-fcdd578d3beb)
+
 
 
 
@@ -303,7 +305,35 @@ In the West region, all closed GTK 500 deals for the year were recorded, with no
 
 
 
-Recommendations
+## Recommendations
+
+**Revenue Performance by Region**
+
+The Central region’s sustained revenue growth through Q3, unlike the sharp fluctuations in the East and West, suggests a more consistent deal pipeline. Focused analysis should be conducted to understand regional dynamics and adjust forecasting and resource allocation accordingly.
+Opportunity and Win Rate Insights
+
+Despite handling fewer opportunities, the East region achieved the highest win rate, indicating efficient deal conversion. This suggests a potential best-practice model for sales qualification or customer engagement, which could be analyzed and adapted to enhance conversion in the Central and West regions.
+
+**Sales Agent Performance**
+
+Lajuana Vencill (Q2 & Q3), Anna Snelling (Q1 & Q3), and Danniel Hammack (Q1 & Q4) consistently rank among the lowest performers. Initiate targeted coaching and performance-improvement plans for these agents—focusing on deal qualification and closing techniques—to raise their win rates and lift overall team efficiency.
+
+**Revenue quarter over quarter trend**
+
+With revenue peaking in Q2 and gradually declining in subsequent quarters, there’s a clear concentration of high-value deal closures early in the year. Recommendation: Consider redistributing sales efforts or introducing staggered incentives to encourage high-value deal closures in later quarters and maintain revenue consistency throughout the year.
+
+**Opportunity volume quarter over quarter trend**
+
+The surge in pipeline activity during Q2 – Q3 and the 2,089 open opportunities signal substantial untapped revenue. Recommendation: prioritize structured follow-up and deal-acceleration plans—e.g., regular pipeline reviews, targeted outreach, and staged incentives—to convert these open opportunities and smooth revenue flow into the coming quarters.
+
+**Product win rates**
+
+-Accelerate GTX Plus Pro – Expand sales focus and marketing support for this high-efficiency product across all regions; use its sales playbook as a benchmark for other lines.
+
+-Cross-train regions on GTK 500 wins – Analyse why only the West succeeds with GTK 500, document winning tactics, and pilot targeted enablement in Central and East to lift its conversion rate.
+
+-Re-position or bundle MG Special – Given its low revenue impact, evaluate bundling, price adjustment, or market repositioning to improve its contribution or phase it out if margins are weak.
+
 
 
 
