@@ -57,6 +57,14 @@ The Central region displayed a more stable trend — it grew by 175.10% from Q1 
 
 *While the West and East regions followed a surge-then-decline pattern after Q2, the Central region showed sustained growth through three quarters before tapering off at the end of the year.*
 
+
+
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/1bb5c792-0eeb-4271-bccf-8943779c2062" />
+
+
+
+
+
 2. Opportunity and Win Rate Insights
    
 The Central region handled the highest number of opportunities (3,512), followed by the West (2,997) and East (2,291).
@@ -65,11 +73,22 @@ The West region followed with a win rate of 47.98%, while the Central region, de
 
 *The East region outperformed expectations, converting a smaller volume of opportunities more effectively than the other two regions.*
 
+
+
+<img width="309" alt="image" src="https://github.com/user-attachments/assets/26e514e7-44df-4dda-b430-d182a7a5f617" />
+
+
+
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/551db6cf-556c-4222-b496-d5fccd459e6b" />
+
+
+
+
 **Are any sales agents lagging?**
 
 Among all sales agents in 2017, Reed Clapper achieved the highest win rate at 65.4%, while Lajuana Vencill recorded the lowest win rate at 40.84%.
 
-By region and manager:
+By region and manager-
 
 •	In the Central region, Cecily Lampkin led with a win rate of 52.71% under manager Dustin Brinkmann.
 
@@ -77,13 +96,13 @@ By region and manager:
 
 •	In the Western region, Hayden Neloms achieved a win rate of 52.97% under manager Celia Rouche.
 
-Closing Revenue:
+Closing Revenue-
 
 •	Darcel Schlecht generated the highest total closing revenue for the year, reaching $1,153,214.
 
 •	Violet McLelland reported the lowest total closing revenue, at $123,431.
 
-Quarter-wise Agent Performance:
+Quarter-wise Agent Performance-
 
 •	Q1:
 
@@ -109,13 +128,21 @@ o	Highest win rate: Versie Hillebrand – 70.83%, with 51 wins from 72 opportuni
 
 o	Lowest win rate: Garret Kinder – 45.71%, with 16 wins from 35
 
-Repeated Appearances in Bottom Performers:
+Repeated Appearances in Bottom Performers-
 
 •	Lajuana Vencill appeared in the bottom five in both Q2 and Q3.
 
 •	Anna Snelling was among the bottom five in Q1 and Q3.
 
 •	Danniel Hammack was in the bottom five in Q1 and Q4.
+
+
+
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/8ed150ad-ac04-44c2-805b-d9699e6582a3" />
+
+
+
+
 
 **Can quarter-over-quarter trends in revenue and opportunity volume be identified?**
 
@@ -135,6 +162,12 @@ o	The Central region dipped from October to November but recovered in December.
 
 o	The West increased from October to November but declined slightly in December.
 
+
+<img width="271" alt="image" src="https://github.com/user-attachments/assets/d1ea010e-06ac-47e3-bf8d-ba34b968c0c6" />
+
+
+
+
 **Overall, revenue peaked in Q2 and showed a gradual decline through the remainder of the year, indicating that most high-value deals closed in the second quarter.**
 
 Opportunity Volume-
@@ -150,4 +183,68 @@ Opportunity Volume-
 *The highest opportunity volumes were recorded in Q2 and Q3, reflecting a strong and active pipeline.*
 
 *There are currently 2,089 open opportunities, indicating substantial future potential still in the pipeline.*
+
+
+
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/326620fa-4f16-47ed-adee-cce0ddb8c470" />
+
+
+**Do any products have significantly better win rates?**
+
+In 2017, GTX Plus Pro achieved the highest overall win rate at 49.48%, while GTK 500 had the lowest at 37.5%.
+In terms of revenue, GTX Pro contributed the highest share, generating $3.5 million, whereas MG Special accounted for the lowest total revenue, totaling $43,768.
+
+Quarter-wise Product Win Rate Trends-
+
+•	Q1:
+
+o	GTK 500 recorded the highest win rate, though with a low number of opportunities.
+
+o	MG Special followed with a win rate of 84.92% across 126 opportunities, indicating strong early performance.
+
+•	Q2:
+
+o	GTX Plus Pro achieved the highest win rate at 64.55%, with 220 total opportunities.
+
+•	Q3:
+
+o	GTK 500 again had the highest win rate at 66.67%, but this was based on only 6 opportunities.
+
+o	GTX Plus Basic had a strong win rate of 64.24%, with a significantly larger base of 330 opportunities.
+
+•	Q4:
+
+o	GTX Plus Pro led again with a win rate of 63%, across 227 opportunities.
+
+Regional Product Performance-
+
+•	Central Region:
+
+o	Highest win rate: GTX Plus Pro – 49.13%, based on 346 opportunities
+
+o	Lowest win rate: MG Advanced – 42.31%, based on 579 opportunities
+
+•	East Region:
+
+o	Highest win rate: GTX Pro – 56.24%, based on 473 opportunities
+
+o	Lowest win rate: GTX Plus Basic – 47.68%, from 388 opportunities
+
+•	West Region:
+
+o	Highest win rate: GTX Plus Pro – 50.16%, across 319 opportunities
+
+o	Lowest win rate: GTK 500 – 40.54%, from 37 opportunities
+
+In the West region, all closed GTK 500 deals for the year were recorded, with no GTK 500 wins outside of that region.
+
+*Overall, GTX Plus Pro consistently demonstrated higher win rates across quarters and regions, making it the best-performing product in terms of conversion efficiency in 2017.*
+
+
+
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/020b409d-e7e4-438e-81fa-0422e8dc47d1" />
+
+
+
+
 
