@@ -59,7 +59,10 @@ The Central region displayed a more stable trend — it grew by 175.10% from Q1 
 
 
 
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/1bb5c792-0eeb-4271-bccf-8943779c2062" />
+![image](https://github.com/user-attachments/assets/2a22242b-bf61-4229-b5da-bed4a9a3d3e3)
+
+
+
 
 
 
