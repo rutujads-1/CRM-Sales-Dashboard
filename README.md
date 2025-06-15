@@ -22,10 +22,15 @@ The dashboard answers these questions through carefully structured data models, 
 Data Tables-
 
 **Accounts** – A dimension table containing organizational attributes for client companies, used to enrich sales opportunity data with industry, size, and geographic context.
+
 **Products** – A dimension table listing Coreline’s hardware offerings, including product names, associated series, and suggested sales prices, used to analyze product-level performance and win rates.
+
 **Sales Teams** – A dimension table detailing the organizational structure of Coreline’s sales force, including agent names, reporting managers, and regional office assignments.
+
 **Sales Pipeline** – A fact table capturing individual sales opportunities, including details on agents, products, accounts, deal stages, timelines, and revenue outcomes.
+
 **Date Table** – A custom date dimension table created to support time-based analysis. It includes continuous dates and derived fields such as Month, Quarter, and Year-Month, enabling accurate trend analysis, time filtering, and period-over-period comparisons.
+
 
 **ERD**
 
@@ -59,7 +64,8 @@ The Central region displayed a more stable trend — it grew by 175.10% from Q1 
 
 
 
-![image](https://github.com/user-attachments/assets/8cfe1966-9345-4bc2-8af3-3c2705dee7f5)
+![image](https://github.com/user-attachments/assets/cb92743f-b113-4257-abb1-66b76b205eff)
+
 
 
 
@@ -79,14 +85,18 @@ The West region followed with a win rate of 47.98%, while the Central region, de
 
 
 
-![image](https://github.com/user-attachments/assets/ed1add00-04e7-45d4-ab8a-94f29cdf9fb4)
+![image](https://github.com/user-attachments/assets/ea5cfe74-cf5a-4ada-9cf5-f8d274226a62)
 
 
 
 
 
 
-![image](https://github.com/user-attachments/assets/d268951d-eec2-432a-a3a1-1c5a9324c04b)
+
+![image](https://github.com/user-attachments/assets/ce05f57d-bda5-4d2f-94f2-975c00683a1f)
+
+
+
 
 
 
