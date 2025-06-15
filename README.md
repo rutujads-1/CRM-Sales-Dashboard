@@ -37,6 +37,8 @@ Data Tables-
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/7c0580ba-779b-4daf-b14e-620b8df916fb" />
 
 
+
+
 ## Executive summary
 
 In 2017, Coreline Hardware generated $10.01M in total revenue, closing 4,238 out of 8,800 sales opportunities. Sales performance fluctuated throughout the year, peaking in June with $82.2K in closed deals and dipping to a low of $2.8K in July. Among all products, GTX Pro delivered the highest revenue at $3.51M, while MG Special contributed the least at $44K. Regionally, the Central office handled the most opportunities (3,512), while the Eastern region saw the lowest volume at 2,291.
@@ -44,6 +46,10 @@ In 2017, Coreline Hardware generated $10.01M in total revenue, closing 4,238 out
 
 
 <img width="572" alt="image" src="https://github.com/user-attachments/assets/5dfb8246-8dad-449d-a19c-f0942cf04776" />
+
+
+
+
 
 
 
@@ -64,6 +70,8 @@ The Central region displayed a more stable trend — it grew by 175.10% from Q1 
 
 
 
+
+
 ![image](https://github.com/user-attachments/assets/cb92743f-b113-4257-abb1-66b76b205eff)
 
 
@@ -80,7 +88,12 @@ The Central region handled the highest number of opportunities (3,512), followed
 Despite having the fewest leads, the East region had the highest win rate at 51.11%, indicating strong performance in converting opportunities into closed deals.
 The West region followed with a win rate of 47.98%, while the Central region, despite handling the most leads, had the lowest win rate at 46.38%.
 
+
+*Blanks in the opportunity data indicate deals still in the prospecting stage or those that have not yet been closed.*
+
 *The East region outperformed expectations, converting a smaller volume of opportunities more effectively than the other two regions.*
+
+
 
 
 
@@ -94,6 +107,8 @@ The West region followed with a win rate of 47.98%, while the Central region, de
 
 
 ![image](https://github.com/user-attachments/assets/ce05f57d-bda5-4d2f-94f2-975c00683a1f)
+
+
 
 
 
@@ -166,7 +181,11 @@ Repeated Appearances in Bottom Performers-
 
 
 
+
+
 <img width="569" alt="image" src="https://github.com/user-attachments/assets/f5b10fbb-d0a5-42bf-9164-801df822b9ed" />
+
+
 
 
 
@@ -200,6 +219,9 @@ o	The West increased from October to November but declined slightly in December.
 
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/7ad5a6ec-92bf-4668-ae05-c18618b59e34)
 
 
@@ -207,6 +229,9 @@ o	The West increased from October to November but declined slightly in December.
 
 
 ![image](https://github.com/user-attachments/assets/789dde63-66ed-4a87-abf2-1fa5d4c2435d)
+
+
+
 
 
 
@@ -232,7 +257,14 @@ Opportunity Volume-
 
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/527356ee-e43d-4bb9-a5b1-fcdd578d3beb)
+
+
+
+
 
 
 
@@ -298,7 +330,15 @@ In the West region, all closed GTK 500 deals for the year were recorded, with no
 
 
 
-![image](https://github.com/user-attachments/assets/d0aacbb0-52af-40f3-a2c5-a83c5a5e4ffe)
+
+
+![image](https://github.com/user-attachments/assets/6dbe66c5-c369-4380-bab3-f1404c2848f0)
+
+
+
+
+
+
 
 
 
@@ -316,23 +356,23 @@ Despite handling fewer opportunities, the East region achieved the highest win r
 
 **Sales Agent Performance**
 
-Lajuana Vencill (Q2 & Q3), Anna Snelling (Q1 & Q3), and Danniel Hammack (Q1 & Q4) consistently rank among the lowest performers. Initiate targeted coaching and performance-improvement plans for these agents—focusing on deal qualification and closing techniques—to raise their win rates and lift overall team efficiency.
+Lajuana Vencill (Q2 & Q3), Anna Snelling (Q1 & Q3), and Danniel Hammack (Q1 & Q4) consistently rank among the lowest performers.Initiate targeted coaching and performance-improvement plans for these agents—focusing on deal qualification and closing techniques—to raise their win rates and lift overall team efficiency.
 
 **Revenue quarter over quarter trend**
 
-With revenue peaking in Q2 and gradually declining in subsequent quarters, there’s a clear concentration of high-value deal closures early in the year. Recommendation: Consider redistributing sales efforts or introducing staggered incentives to encourage high-value deal closures in later quarters and maintain revenue consistency throughout the year.
+With revenue peaking in Q2 and gradually declining in subsequent quarters, there’s a clear concentration of high-value deal closures early in the year.Consider redistributing sales efforts or introducing staggered incentives to encourage high-value deal closures in later quarters and maintain revenue consistency throughout the year.
 
 **Opportunity volume quarter over quarter trend**
 
-The surge in pipeline activity during Q2 – Q3 and the 2,089 open opportunities signal substantial untapped revenue. Recommendation: prioritize structured follow-up and deal-acceleration plans—e.g., regular pipeline reviews, targeted outreach, and staged incentives—to convert these open opportunities and smooth revenue flow into the coming quarters.
+The surge in pipeline activity during Q2 – Q3 and the 2,089 open opportunities signal substantial untapped revenue.Prioritize structured follow-up and deal-acceleration plans—e.g., regular pipeline reviews, targeted outreach, and staged incentives—to convert these open opportunities and smooth revenue flow into the coming quarters.
 
 **Product win rates**
 
--Accelerate GTX Plus Pro – Expand sales focus and marketing support for this high-efficiency product across all regions; use its sales playbook as a benchmark for other lines.
+-**Accelerate GTX Plus Pro** – Expand sales focus and marketing support for this high-efficiency product across all regions; use its sales playbook as a benchmark for other lines.
 
--Cross-train regions on GTK 500 wins – Analyse why only the West succeeds with GTK 500, document winning tactics, and pilot targeted enablement in Central and East to lift its conversion rate.
+-**Cross-train regions on GTK 500 wins** – Analyse why only the West succeeds with GTK 500, document winning tactics, and pilot targeted enablement in Central and East to lift its conversion rate.
 
--Re-position or bundle MG Special – Given its low revenue impact, evaluate bundling, price adjustment, or market repositioning to improve its contribution or phase it out if margins are weak.
+-**Re-position or bundle MG Special** – Given its low revenue impact, evaluate bundling, price adjustment, or market repositioning to improve its contribution or phase it out if margins are weak.
 
 
 
