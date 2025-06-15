@@ -59,7 +59,7 @@ The Central region displayed a more stable trend — it grew by 175.10% from Q1 
 
 
 
-![image](https://github.com/user-attachments/assets/2a22242b-bf61-4229-b5da-bed4a9a3d3e3)
+![image](https://github.com/user-attachments/assets/8cfe1966-9345-4bc2-8af3-3c2705dee7f5)
 
 
 
@@ -78,11 +78,22 @@ The West region followed with a win rate of 47.98%, while the Central region, de
 
 
 
-<img width="309" alt="image" src="https://github.com/user-attachments/assets/26e514e7-44df-4dda-b430-d182a7a5f617" />
+
+![image](https://github.com/user-attachments/assets/ed1add00-04e7-45d4-ab8a-94f29cdf9fb4)
 
 
 
-<img width="302" alt="image" src="https://github.com/user-attachments/assets/551db6cf-556c-4222-b496-d5fccd459e6b" />
+
+
+
+![image](https://github.com/user-attachments/assets/d268951d-eec2-432a-a3a1-1c5a9324c04b)
+
+
+
+
+
+
+
 
 
 
@@ -141,7 +152,17 @@ Repeated Appearances in Bottom Performers-
 
 
 
-<img width="332" alt="image" src="https://github.com/user-attachments/assets/8ed150ad-ac04-44c2-805b-d9699e6582a3" />
+
+
+
+
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/f5b10fbb-d0a5-42bf-9164-801df822b9ed" />
+
+
+
+
+
+
 
 
 
@@ -166,7 +187,17 @@ o	The Central region dipped from October to November but recovered in December.
 o	The West increased from October to November but declined slightly in December.
 
 
-<img width="271" alt="image" src="https://github.com/user-attachments/assets/d1ea010e-06ac-47e3-bf8d-ba34b968c0c6" />
+
+
+
+![image](https://github.com/user-attachments/assets/d9b485c9-3d42-4889-bd5d-8b2774c11f2a)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b8ad2124-4bec-4ace-9555-bf52cb98a707)
+
 
 
 
@@ -185,11 +216,18 @@ Opportunity Volume-
 
 *The highest opportunity volumes were recorded in Q2 and Q3, reflecting a strong and active pipeline.*
 
-*There are currently 2,089 open opportunities, indicating substantial future potential still in the pipeline.*
+*There are currently 2,089 open opportunities, indicating substantial future potential still in the pipeline — as indicated by the blanks in the date slicers.*
 
 
 
-<img width="194" alt="image" src="https://github.com/user-attachments/assets/326620fa-4f16-47ed-adee-cce0ddb8c470" />
+
+![image](https://github.com/user-attachments/assets/88bd7c9e-76b1-4131-b3f4-e195125439f4)
+
+
+
+
+
+
 
 
 **Do any products have significantly better win rates?**
@@ -245,7 +283,21 @@ In the West region, all closed GTK 500 deals for the year were recorded, with no
 
 
 
-<img width="569" alt="image" src="https://github.com/user-attachments/assets/020b409d-e7e4-438e-81fa-0422e8dc47d1" />
+
+
+
+![image](https://github.com/user-attachments/assets/d0aacbb0-52af-40f3-a2c5-a83c5a5e4ffe)
+
+
+
+
+
+
+Recommendations
+
+
+
+
 
 
 
