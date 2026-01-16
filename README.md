@@ -5,17 +5,7 @@
 This Power BI dashboard was developed for **Coreline Hardware**, a computer hardware company, to provide strategic insights into its sales performance across regions, teams, and products.
 Coreline operates in a competitive environment with a focus on enterprise clients, supported by regional sales teams and a broad product catalog. The underlying dataset — sourced from **Maven Analytics** — simulates CRM data and includes detailed records of customer accounts, products, sales agents, opportunity stages, and team structures.
 
-The objective of this project is to transform raw CRM data into actionable insights that support business decision-making for Coreline's executive leadership, regional sales managers, and sales strategy teams. The analysis was guided by the following key business questions:
-
-*- How is each sales team performing compared to the rest?*
-
-*- Are any sales agents lagging in performance?*
-
-*- Can quarter-over-quarter trends in revenue and opportunity volume be identified?*
-
-*- Do any products have significantly better win rates?*
-
-The dashboard answers these questions through carefully structured data models, DAX-driven KPIs—including **total opportunities, won deal count, win rates, and revenue**—and dynamic visuals tailored for executive-level reporting.
+**The objective of this project is to analyse sales performance across products, agents, and time in order to identify the key drivers of revenue, conversion efficiency, and sales effectiveness, and to surface actionable opportunities to improve overall sales performance using the North Star KPIs- Total Opportunities, Win Rate, Total Revenue and Average Deal Size.**
 
 ## Data Structure and Overview
 
@@ -41,7 +31,16 @@ Data Tables-
 
 ## Executive summary
 
-In 2017, Coreline Hardware generated $10.01M in total revenue, closing 4,238 out of 8,800 sales opportunities. Sales performance fluctuated throughout the year, peaking in June with $82.2K in closed deals and dipping to a low of $2.8K in July. Among all products, GTX Pro delivered the highest revenue at $3.51M, while MG Special contributed the least at $44K. Regionally, the Central office handled the most opportunities (3,512), while the Eastern region saw the lowest volume at 2,291.
+In 2017, Coreline Hardware earned a revenue of ~$10M closing 4,238 out of 8,800 sales opportunities with a win rate of ~48% . Approximately 24% of opportunities still open,indicating an active and ongoing sales pipeline.
+
+Quarterly analysis of the win rate and total opportunities shows that a sharp increase in opportunity volume from Q1 to Q3 coincided with declining win rates. The parallel movement suggests a volume-driven conversion trade-off rather than agent- or product-specific issues. Win rates stabilised in Q4 as opportunity volumes moderated.
+
+Analysing product performance reveals that GTXPro gets the highest revenue- $ 3511K followed by GTX PLus Pro and MG Advance. In terms of order volume- GTX Basic followed by MG Special and GTX Pro have the highest number of opportunities.Despite having a higher opportunity count,these products have a lesser average deal size, thus generating less total revenue inspite of having a good win rate. 
+
+Products can be thus segmented into High revenue products- GTX PRO, GTX PRO PLUS, MG ADVANCE and High volume, low revenue- GTX BASIC, MG SPECIAL.
+GTK 500 is the product with the lowest number of total opportunities but has the highest average deal size. 
+
+This analysis further looks into the High revenue product segment as they contribute to ~60% of the total revenue earned so far. 
 
 
 
@@ -57,291 +56,7 @@ In 2017, Coreline Hardware generated $10.01M in total revenue, closing 4,238 out
 
 ## Insights Deep Dive
 
-**How is each sales team performing compared to the rest?**
-
-1. Revenue Performance by Region
-   
-In 2017, the West region led in total revenue, generating approximately $3.6 million, followed by the Central region with $3.3 million, and the East region with $3.1 million.
-Throughout the year, the West region showed strong early performance with a 143% revenue increase from Q1 to Q2, followed by slight declines of 9.2% in Q3 and 1.9% in Q4.
-The East region experienced the highest growth in Q2 with a 208.92% increase from Q1, but then saw consecutive decreases of 9.5% and 10.31% in Q3 and Q4 respectively.
-The Central region displayed a more stable trend — it grew by 175.10% from Q1 to Q2, continued to rise by 10.01% in Q3, and then saw a modest 6.21% decline in Q4.
-
-*While the West and East regions followed a surge-then-decline pattern after Q2, the Central region showed sustained growth through three quarters before tapering off at the end of the year.*
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/cb92743f-b113-4257-abb1-66b76b205eff)
-
-
-
-
-
-
-
-
-
-2. Opportunity and Win Rate Insights
-   
-The Central region handled the highest number of opportunities (3,512), followed by the West (2,997) and East (2,291).
-Despite having the fewest leads, the East region had the highest win rate at 51.11%, indicating strong performance in converting opportunities into closed deals.
-The West region followed with a win rate of 47.98%, while the Central region, despite handling the most leads, had the lowest win rate at 46.38%.
-
-
-*Blanks in the opportunity data indicate deals still in the prospecting stage or those that have not yet been closed.*
-
-*The East region outperformed expectations, converting a smaller volume of opportunities more effectively than the other two regions.*
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/ea5cfe74-cf5a-4ada-9cf5-f8d274226a62)
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/ce05f57d-bda5-4d2f-94f2-975c00683a1f)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Are any sales agents lagging?**
-
-Among all sales agents in 2017, Reed Clapper achieved the highest win rate at 65.4%, while Lajuana Vencill recorded the lowest win rate at 40.84%.
-
-By region and manager-
-
-•	In the Central region, Cecily Lampkin led with a win rate of 52.71% under manager Dustin Brinkmann.
-
-•	In the Eastern region, Reed Clapper, reporting to Rocco Neubert, had the top overall win rate.
-
-•	In the Western region, Hayden Neloms achieved a win rate of 52.97% under manager Celia Rouche.
-
-Closing Revenue-
-
-•	Darcel Schlecht generated the highest total closing revenue for the year, reaching $1,153,214.
-
-•	Violet McLelland reported the lowest total closing revenue, at $123,431.
-
-Quarter-wise Agent Performance-
-
-•	Q1:
-
-o	Highest win rate: Corliss Cosme – 95.83%, winning 23 out of 24 opportunities
-
-o	Lowest win rate: Wilburn Farren – 60%, winning 3 out of 5 opportunities
-
-•	Q2:
-
-o	Highest win rate: Wilburn Farren – 73.68%, with 14 wins out of 19
-
-o	Lowest win rate: Gladys Colclough – 52.31%, with 34 wins from 65 opportunities
-
-•	Q3:
-
-o	Highest win rate: Rosie Papadopoulos – 74.19%, converting 23 of 31 opportunities
-
-o	Lowest win rate: Lajuana Vencill – 49.32%, with 36 wins out of 73
-
-•	Q4:
-
-o	Highest win rate: Versie Hillebrand – 70.83%, with 51 wins from 72 opportunities
-
-o	Lowest win rate: Garret Kinder – 45.71%, with 16 wins from 35
-
-Repeated Appearances in Bottom Performers-
-
-•	Lajuana Vencill appeared in the bottom five in both Q2 and Q3.
-
-•	Anna Snelling was among the bottom five in Q1 and Q3.
-
-•	Danniel Hammack was in the bottom five in Q1 and Q4.
-
-
-
-
-
-
-
-
-
-<img width="569" alt="image" src="https://github.com/user-attachments/assets/f5b10fbb-d0a5-42bf-9164-801df822b9ed" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Can quarter-over-quarter trends in revenue and opportunity volume be identified?**
-
-Revenue-
-
-•	Q1: Revenue totaled $1.13M, led by the West ($457K), followed by the Central ($348K) and East ($329K) regions.
-
-•	Q2: Revenue saw a sharp increase to $3.09M, with June contributing the highest closing values across all regions. There was a slight dip in May before the peak.
-
-•	Q3: Revenue slightly declined to $2.98M, with a dip in July followed by consistent growth in August and September.
-
-•	Q4: Revenue further decreased to $2.80M.
-
-o	The East region showed steady growth across all three months.
-
-o	The Central region dipped from October to November but recovered in December.
-
-o	The West increased from October to November but declined slightly in December.
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/7ad5a6ec-92bf-4668-ae05-c18618b59e34)
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/789dde63-66ed-4a87-abf2-1fa5d4c2435d)
-
-
-
-
-
-
-
-
-
-**Overall, revenue peaked in Q2 and showed a gradual decline through the remainder of the year, indicating that most high-value deals closed in the second quarter.**
-
-Opportunity Volume-
-
-•	Q1 recorded 647 closed opportunities, with the Central region leading (242), followed by the West (231) and East (174).
-
-•	Q2 saw a sharp rise to 2,032 opportunities closed, showing an upward trend across all regions from April to May, followed by a decline in June.
-
-•	Q3 had the highest number of closures (2,047), driven by growth from July to August before a slight drop in September.
-
-•	Q4 experienced a dip to 1,985 closed opportunities, with volumes increasing from October to November and declining through December.
-
-*The highest opportunity volumes were recorded in Q2 and Q3, reflecting a strong and active pipeline.*
-
-*There are currently 2,089 open opportunities, indicating substantial future potential still in the pipeline — as indicated by the blanks in the date slicers.*
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/527356ee-e43d-4bb9-a5b1-fcdd578d3beb)
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Do any products have significantly better win rates?**
-
-In 2017, GTX Plus Pro achieved the highest overall win rate at 49.48%, while GTK 500 had the lowest at 37.5%.
-In terms of revenue, GTX Pro contributed the highest share, generating $3.5 million, whereas MG Special accounted for the lowest total revenue, totaling $43,768.
-
-Quarter-wise Product Win Rate Trends-
-
-•	Q1:
-
-o	GTK 500 recorded the highest win rate, though with a low number of opportunities.
-
-o	MG Special followed with a win rate of 84.92% across 126 opportunities, indicating strong early performance.
-
-•	Q2:
-
-o	GTX Plus Pro achieved the highest win rate at 64.55%, with 220 total opportunities.
-
-•	Q3:
-
-o	GTK 500 again had the highest win rate at 66.67%, but this was based on only 6 opportunities.
-
-o	GTX Plus Basic had a strong win rate of 64.24%, with a significantly larger base of 330 opportunities.
-
-•	Q4:
-
-o	GTX Plus Pro led again with a win rate of 63%, across 227 opportunities.
-
-Regional Product Performance-
-
-•	Central Region:
-
-o	Highest win rate: GTX Plus Pro – 49.13%, based on 346 opportunities
-
-o	Lowest win rate: MG Advanced – 42.31%, based on 579 opportunities
-
-•	East Region:
-
-o	Highest win rate: GTX Pro – 56.24%, based on 473 opportunities
-
-o	Lowest win rate: GTX Plus Basic – 47.68%, from 388 opportunities
-
-•	West Region:
-
-o	Highest win rate: GTX Plus Pro – 50.16%, across 319 opportunities
-
-o	Lowest win rate: GTK 500 – 40.54%, from 37 opportunities
-
-In the West region, all closed GTK 500 deals for the year were recorded, with no GTK 500 wins outside of that region.
-
-*Overall, GTX Plus Pro consistently demonstrated higher win rates across quarters and regions, making it the best-performing product in terms of conversion efficiency in 2017.*
-
-
-
-
-
-
-
-
-<img width="569" alt="image" src="https://github.com/user-attachments/assets/17431913-a904-4f15-9e34-29bbcf452c9e" />
-
-
-
-
-
-
-
-
-
+### Product Performance
 
 
 
