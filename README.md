@@ -40,7 +40,7 @@ Analysing product performance reveals that GTXPro gets the highest revenue- $ 35
 Products can be thus segmented into High revenue products- GTX PRO, GTX PRO PLUS, MG ADVANCE and High volume, low revenue- GTX BASIC, MG SPECIAL.
 GTK 500 is the product with the lowest number of total opportunities but has the highest average deal size. 
 
-This analysis further looks into the High revenue product segment as they contribute to ~60% of the total revenue earned so far. 
+This analysis further looks into the High revenue product segment as they contribute to ~84% of the total revenue earned so far. 
 
 
 
@@ -57,6 +57,12 @@ This analysis further looks into the High revenue product segment as they contri
 ## Insights Deep Dive
 
 ### Product Performance
+
+GTX Pro generates the highest revenue of $ 3511K followed by GTX Plus Pro at $ 2630K and MG Advanced at $2216K.Win rates across these high revenue generating products are comparable, and so are average days to close. Differences are in the number of opportunities and averag deal size. If we can try and get more opportunities for the GTX plus pro product then revenue would be higher because on an average per deal we are getting a higher value.
+
+These 3 products contribute to a total of $ 8357K which is ~84% of the revenue making them the drivers of total revenue. 
+
+Of all the other products, GTK 500 has a particulary low opportunity count of 40 with a win rate of 38%. Further investigation is needed in this area.
 
 
 
