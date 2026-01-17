@@ -71,7 +71,7 @@ Of all the other products, GTK 500 has a particulary low opportunity count of 40
 **GTX Plus Pro**
 
 
-**High-value performing combinations (High Opportunity Exposure)**
+**High-value performing combinations (High Opportunity Count)**
 
 1. James Ascencio handles the highest opportunity volume (81) while maintaining a strong win rate (69%) and stable average deal size. He demonstrates high efficiency under significant workload, making him a strong high-value agent–product fit.
 
@@ -82,67 +82,67 @@ Of all the other products, GTK 500 has a particulary low opportunity count of 40
 3. Anna Snelling, with 64 opportunities, operates at a comparable workload level but shows a relatively lower win rate (59%). This may indicate capacity-related efficiency constraints and warrants further review rather than immediate performance concerns.
 
 
-Overall, James Ascencio and Darcel Schlecht emerge as the top high-load, high-efficiency performers for GTX Plus Pro.
+Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, high-efficiency performers for GTX Plus Pro**.
 
-**Other strong performers in the high exposure bucket**
+**Other strong performers in the high opportunity count bucket**
 
 1. Marty Freudenburg (72%) and Maureen Marcano (81%) exhibit exceptionally high conversion rates with comparable opportunity volumes, positioning them as high-performing candidates within this segment.
 
 
-**Coaching signals within high exposure**
+**Coaching signals within high opportunity count bucket**
 
-1. Reed Clapper, Gladys Colclough, and Cassey Cress display lower win rates relative to peers with similar opportunity exposure, suggesting product-specific coaching opportunities.
+1. **Reed Clapper, Gladys Colclough, and Cassey Cress** display lower win rates relative to agents with similar opportunity exposure, suggesting **product-specific coaching opportunities**.
 
-**Strong performance at reasonable workload (Medium Exposure)**
+**Strong performance at reasonable workload (Medium opportunity count)**
 
-1. Hayden Neloms (90%, 15 opps), Kami Bicknell (83%, 22 opps), and Niesha Huffins (80%, 19 opps) show extremely high win rates at comparable, moderate workloads, indicating underutilised high-potential agents.
+1. Hayden Neloms (90%, 15 opps), Kami Bicknell (83%, 22 opps), and Niesha Huffins (80%, 19 opps) show extremely high win rates at comparable, moderate workloads. These agents can be assigned more opportunities in this product and performance can then again be monitored.
 
 
 2. Garrett Kinder, with a similar opportunity range (23 opps), underperforms with a lower win rate (52%), marking a coaching opportunity.
 
 
-**Low Exposure Insights**
+**Low Opportunity count bucket**
 
-1. Elease Gluck records the lowest win rate (17%) despite low opportunity exposure (9), clearly identifying a training need for this product line.
+1.** Elease Gluck** records the lowest win rate (17%) despite low opportunity count (9), clearly identifying **a training need** for this product line.
 
 
 **GTX Pro**
 
 **High-value performing combinations (High Opportunity Exposure)**
 
-1. Darcel Schlecht stands out with an exceptionally high opportunity volume (358) and a solid win rate (60%), indicating strong specialisation in this product. While efficiency may improve with reduced load, he clearly emerges as a key GTX Pro specialist.
+1. **Darcel Schlecht** stands out with an exceptionally high opportunity volume (358) and a solid win rate (60%), indicating strong specialisation in this product. While efficiency may improve with reduced load, he clearly emerges as a key GTX Pro specialist.
 
 
-2. Zane Levy, with 91 opportunities and a win rate of 67%, demonstrates high efficiency at significant scale.
+2. **Zane Levy**, with 91 opportunities and a win rate of 67%, demonstrates high efficiency at significant scale.
 
 
-**Among other high-exposure agents:**
+**Among other high-opportuntiy count agents:**
 
-1. Don Cantrell and Kami Bicknell show comparatively lower win rates (55%), indicating potential efficiency improvement opportunities within this workload segment.
-
-
-
-**Medium exposure insights**
-
-1. Rosie Papadopoulos emerges as the top performer in this segment with an outstanding win rate (81%) at 43 opportunities.
+1. **Don Cantrell and Kami Bicknell** show comparatively lower win rates (55%), indicating potential efficiency improvement opportunities within this workload segment.
 
 
-2. Gladys Colclough, with a win rate of 52%, underperforms relative to peers and may benefit from targeted coaching.
+
+**Medium opportunity count insights**
+
+1. **Rosie Papadopoulos** emerges as the top performer in this segment with an outstanding win rate (81%) at 43 opportunities.
+
+
+2. **Gladys Colclough**, with a win rate of 52%, underperforms relative to peers and may benefit from targeted coaching.
 
 
 
 **Low exposure insights**
 
-1. Elease Gluck shows strong efficiency with the highest win rate (80%) despite low exposure, suggesting potential underutilisation.
+1. **Elease Gluck** shows strong efficiency with the highest win rate (80%) despite low exposure, suggesting potential underutilisation.
 
 
-2. Niesha Huffins, with comparable exposure, records the lowest win rate (14%), indicating a clear coaching requirement for GTX Pro.
+2. **Niesha Huffins**, with comparable exposure, records the lowest win rate (14%), indicating a clear coaching requirement for GTX Pro.
 
 
 
 **MG Advanced**
 
-**High-value performing combinations (High Opportunity Exposure)**
+**High-value performing combinations (High Opportunity Count)**
 
 1. Hayden Neloms leads with the highest opportunity volume (101) and a strong win rate (77%), making him a high-efficiency, high-load performer for MG Advanced.
 
@@ -150,7 +150,7 @@ Overall, James Ascencio and Darcel Schlecht emerge as the top high-load, high-ef
 2. Vicki Laflamme, with similar exposure (90 opps) but a lower win rate (57%), shows signs of product-specific inefficiency, indicating a need for coaching.
 
 
-**Other high-exposure agents:**
+**Other high-opportunity count agents:**
 
 1. Lajuana Vencill (51%), Marty Freudenburg (49%), and Anna Snelling (47%) operate at comparable opportunity levels but exhibit lower conversion rates, highlighting efficiency gaps within this segment.
 
@@ -158,31 +158,24 @@ Overall, James Ascencio and Darcel Schlecht emerge as the top high-load, high-ef
 
 **Medium exposure insights**
 
-1. Corliss Cosme, with approximately 32 opportunities and a win rate of 43%, underperforms relative to peers and represents a coaching opportunity.
+1. **Corliss Cosme**, with approximately 32 opportunities and a win rate of 43%, underperforms relative to peers and represents a coaching opportunity.
 
 
 
 **Low exposure insights**
 
-1. Niesha Huffins, despite lower opportunity exposure (22), maintains a strong win rate (71%), suggesting latent potential.
+1. **Niesha Huffins**, despite lower opportunity exposure (22), maintains a strong win rate (71%), suggesting latent potential.
 
 
-2. Kary Hendrixson, with similar exposure (23), records the lowest win rate (44%) in this segment, indicating training and support needs.
+2. **Kary Hendrixson**, with similar exposure (23), records the lowest win rate (44%) in this segment, indicating training and support needs.
 
 
 
 ## Recommendations
 
-**Revenue Performance by Region**
-
-The Central region’s sustained revenue growth through Q3, unlike the sharp fluctuations in the East and West, suggests a more consistent deal pipeline. Focused analysis should be conducted to understand regional dynamics and adjust forecasting and resource allocation accordingly.
-Opportunity and Win Rate Insights
-
-Despite handling fewer opportunities, the East region achieved the highest win rate, indicating efficient deal conversion. This suggests a potential best-practice model for sales qualification or customer engagement, which could be analyzed and adapted to enhance conversion in the Central and West regions.
-
 **Sales Agent Performance**
 
-Lajuana Vencill (Q2 & Q3), Anna Snelling (Q1 & Q3), and Danniel Hammack (Q1 & Q4) consistently rank among the lowest performers.Initiate targeted coaching and performance-improvement plans for these agents—focusing on deal qualification and closing techniques—to raise their win rates and lift overall team efficiency.
+1. Darcel Schlecht emerges as a top performer across 2 of the 3 high revenue generating product lines. 
 
 **Revenue quarter over quarter trend**
 
