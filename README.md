@@ -67,6 +67,10 @@ Of all the other products, GTK 500 has a particulary low opportunity count of 40
 
 ### Product x Agent Performance 
 
+Sales agents were grouped into opportunity exposure buckets (low, medium, high) based on the number of opportunities handled for each product. This segmentation controls for workload differences and enables fair performance comparison among agents facing similar pipeline exposure.
+
+
+Agent performance is evaluated using an efficiency-based composite score that combines win rate, average deal size, and sales cycle duration, with each metric assessed relative to peers within the same opportunity exposure bucket. This metric is seen along side other KPIs and then performance is evaluated. 
 
 
 **GTX Plus Pro**
@@ -104,12 +108,12 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 **Low Opportunity count bucket**
 
-1.** Elease Gluck** records the lowest win rate (17%) despite low opportunity count (9), clearly identifying **a training need** for this product line.
+1.**Elease Gluck** records the lowest win rate (17%) despite low opportunity count (9), clearly identifying **a training need** for this product line.
 
 
 **GTX Pro**
 
-**High-value performing combinations (High Opportunity Exposure)**
+**High-value performing combinations (High Opportunity count)**
 
 1. **Darcel Schlecht** stands out with an exceptionally high opportunity volume (358) and a solid win rate (60%), indicating strong specialisation in this product. While efficiency may improve with reduced load, he clearly emerges as a key GTX Pro specialist.
 
@@ -123,7 +127,7 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 
 
-**Medium opportunity count insights**
+**Medium opportunity count**
 
 1. **Rosie Papadopoulos** emerges as the top performer in this segment with an outstanding win rate (81%) at 43 opportunities.
 
@@ -132,7 +136,7 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 
 
-**Low exposure insights**
+**Low opportunity count**
 
 1. **Elease Gluck** shows strong efficiency with the highest win rate (80%) despite low exposure, suggesting potential underutilisation.
 
@@ -157,13 +161,13 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 
 
-**Medium exposure insights**
+**Medium opportunity count**
 
 1. **Corliss Cosme**, with approximately 32 opportunities and a win rate of 43%, underperforms relative to peers and represents a coaching opportunity.
 
 
 
-**Low exposure insights**
+**Low opportunity count insights**
 
 1. **Niesha Huffins**, despite lower opportunity exposure (22), maintains a strong win rate (71%), suggesting latent potential.
 
