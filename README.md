@@ -262,5 +262,5 @@ Questions to Stakeholders prior to advancement-
 
 -While agents may handle additional product portfolios, this analysis intentionally focuses on high-revenue products to assess performance within their specific sales dynamics.
 
-- Performance evaluation does not take into account the lead quality as data is not indicative of it. 
+-Performance evaluation does not take into account the lead quality as data is not indicative of it. 
 
