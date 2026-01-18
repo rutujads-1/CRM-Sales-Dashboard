@@ -214,7 +214,7 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 **Sales Agent Performance**
 
-1.Anna Snelling manages multiple product portfolios in addition to high-revenue products such as GTX Plus Pro. A review of her cross-product workload is recommended to determine whether performance inefficiencies are workload-driven or product-specific. This approach can be applied consistently to other agents with similar portfolio breadth.
+1. Anna Snelling manages multiple product portfolios in addition to high-revenue products such as GTX Plus Pro. A review of her cross-product workload is recommended to determine whether performance inefficiencies are workload-driven or product-specific. This approach can be applied consistently to other agents with similar portfolio breadth.
 
 2. Gladys Colclough underperforms in two of the three high-performing product categories analysed. A reassessment of her product assignment is recommended to align workload with areas of stronger performance. This approach can be applied consistently to other agents exhibiting similar multi-product inefficiencies.
 
@@ -262,5 +262,5 @@ Questions to Stakeholders prior to advancement-
 
 -While agents may handle additional product portfolios, this analysis intentionally focuses on high-revenue products to assess performance within their specific sales dynamics.
 
-- performance evaluation does not take into account the lead quality as data is not indicative of it. 
+- Performance evaluation does not take into account the lead quality as data is not indicative of it. 
 
