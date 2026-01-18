@@ -3,6 +3,7 @@
 This project performs initial sales analysis in Excel using pivot tables and uses Power BI for visualization of CRM data for Coreline Hardware, highlighting sales efficiency, key KPIs, and coaching opportunities across agents and products.
 
 
+
 ## Table of Contents
 
 - [Background and Overview](#background-and-overview)
@@ -24,6 +25,12 @@ This project performs initial sales analysis in Excel using pivot tables and use
 **Coreline Hardware** operates in a competitive environment with a focus on enterprise clients, supported by regional sales teams and a broad product catalog. The underlying dataset simulates CRM data and includes detailed records of customer accounts, products, sales agents, opportunity stages, and team structures.
 
 **The objective of this project is to identify high-value agent–product combinations and targeted coaching opportunities by evaluating sales efficiency within comparable opportunity exposure segments across key revenue-generating products.The North Star KPIs used are - Total Opportunities, Win Rate, Total Revenue and Average Deal Size.**
+
+
+Dashboard link:
+
+Excel Workbook Link:
+
 
 ## Data Structure and Overview
 
