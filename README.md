@@ -23,12 +23,22 @@ Data Tables-
 
 **ERD**
 
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/7c0580ba-779b-4daf-b14e-620b8df916fb" />
-
+<p align="center">
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/7c0580ba-779b-4daf-b14e-620b8df916fb" />
+</p>
 
 
 
 ## Executive summary
+
+<p align="center">
+<img src="Images/quarterly trends.png" alt="Description of image" width=600>
+</p>
+
+
+<p align="center">
+  <img src="Images/total opps and revenue by product .png" width="800">
+</p>
 
 In 2017, Coreline Hardware earned a revenue of ~**$10M** closing 4,238 out of 8,800 sales opportunities with a **win rate of ~48%** . Approximately **24%** of **opportunities still open**,indicating an active and ongoing sales pipeline.
 
@@ -43,7 +53,6 @@ This analysis further looks into the High revenue product segment as they contri
 
 
 
-<img width="572" alt="image" src="https://github.com/user-attachments/assets/5dfb8246-8dad-449d-a19c-f0942cf04776" />
 
 
 
@@ -56,6 +65,12 @@ This analysis further looks into the High revenue product segment as they contri
 ## Insights Deep Dive
 
 ### Product Performance
+
+<p align="center">
+<img src="Images/High revene gen prod pg.png" alt="Description of image" width=600>
+</p>
+
+
 
 GTX Pro generates the highest revenue of $ 3511K followed by GTX Plus Pro at $ 2630K and MG Advanced at $2216K.Win rates across these high revenue generating products are comparable, and so are average days to close. Differences are in the number of opportunities and average deal size. If the company gets more opportunities for GTX plus pro then revenue would be significantly impacted as on an average per deal generates a higher value.
 
@@ -74,6 +89,12 @@ Agent performance is evaluated using an efficiency-based composite score that co
 
 
 **GTX Plus Pro**
+
+
+<p align="center">
+<img src="Images/Agent performance GTX Plus Pro.png" alt="Description of image" width=600>
+</p>
+
 
 
 **High-value performing combinations (High Opportunity Count)**
@@ -113,6 +134,13 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 **GTX Pro**
 
+
+<p align="center">
+<img src="Images/Agent performance GTX Pro.png" alt="Description of image" width=600>
+</p>
+
+
+
 **High-value performing combinations (High Opportunity count)**
 
 1. **Darcel Schlecht** stands out with an exceptionally high opportunity volume (358) and a solid win rate (60%), indicating strong specialisation in this product. While efficiency may improve with reduced load, he clearly emerges as a key GTX Pro specialist.
@@ -147,6 +175,12 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 **MG Advanced**
 
+
+<p align="center">
+<img src="Images/Agent performance MG Advanced.png" alt="Description of image" width=600>
+</p>
+
+
 **High-value performing combinations (High Opportunity Count)**
 
 1. Hayden Neloms leads with the highest opportunity volume (101) and a strong win rate (77%), making him a high-efficiency, high-load performer for MG Advanced.
@@ -180,23 +214,23 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 **Sales Agent Performance**
 
-1. Darcel Schlecht emerges as a top performer across 2 of the 3 high revenue generating product lines. 
+1.Anna Snelling manages multiple product portfolios in addition to high-revenue products such as GTX Plus Pro. A review of her cross-product workload is recommended to determine whether performance inefficiencies are workload-driven or product-specific. This approach can be applied consistently to other agents with similar portfolio breadth.
 
-**Revenue quarter over quarter trend**
+2. Gladys Colclough underperforms in two of the three high-performing product categories analysed. A reassessment of her product assignment is recommended to align workload with areas of stronger performance. This approach can be applied consistently to other agents exhibiting similar multi-product inefficiencies.
 
-With revenue peaking in Q2 and gradually declining in subsequent quarters, there’s a clear concentration of high-value deal closures early in the year.Consider redistributing sales efforts or introducing staggered incentives to encourage high-value deal closures in later quarters and maintain revenue consistency throughout the year.
+3. Darcel Schlecht demonstrates strong and consistent performance across multiple high-revenue product lines. Recognising and rewarding such agents can help retain high performers and set performance benchmarks for the broader sales organisation.
 
-**Opportunity volume quarter over quarter trend**
 
-The surge in pipeline activity during Q2 – Q3 and the 2,089 open opportunities signal substantial untapped revenue.Prioritize structured follow-up and deal-acceleration plans—e.g., regular pipeline reviews, targeted outreach, and staged incentives—to convert these open opportunities and smooth revenue flow into the coming quarters.
+**Opportunity volume vs win rate quarter over quarter trend**
+
+1. It is recommended to conduct a targeted review of lead quality and pipeline intake processes during high-growth periods, particularly between Q1 and Q3. Additionally, opportunity distribution and agent capacity should be monitored during these periods to ensure that increased volume does not adversely impact conversion efficiency.
 
 **Product win rates**
 
--**Accelerate GTX Plus Pro** – Expand sales focus and marketing support for this high-efficiency product across all regions; use its sales playbook as a benchmark for other lines.
+1. Given its high average order value, GTX Plus Pro warrants focused performance monitoring and targeted optimisation. Prioritising high-efficiency agents for this product and providing product-specific coaching where needed can yield disproportionate revenue impact relative to effort.
 
--**Cross-train regions on GTK 500 wins** – Analyse why only the West succeeds with GTK 500, document winning tactics, and pilot targeted enablement in Central and East to lift its conversion rate.
+2. Given the low opportunity volume and conversion rates for GTX 500, performance analysis should shift toward understanding where the product sells best geographically or by client segment, with demand-generation efforts concentrated in those areas.
 
--**Re-position or bundle MG Special** – Given its low revenue impact, evaluate bundling, price adjustment, or market repositioning to improve its contribution or phase it out if margins are weak.
 
 
 ## Clarifying Questions,Assumptions and Caveats
@@ -211,7 +245,6 @@ Questions to Stakeholders prior to advancement-
 -Is “GTX Pro” in the Products table the same as “GTXPro” in the Sales Pipeline table?
 (Clarifies potential data entry issues that may affect product-level analysis.)
 
--Are there defined profit margins per product that could be used in performance analysis, or should analysis rely solely on revenue and win rates?
 
 **Assumptions**
 
@@ -227,12 +260,7 @@ Questions to Stakeholders prior to advancement-
 
 -Profit-related metrics could not be calculated due to lack of cost or margin data.
 
--Date inconsistencies between engagement and closing phases (e.g., blanks or out-of-sequence records) may impact timeline analysis.
-
 -While agents may handle additional product portfolios, this analysis intentionally focuses on high-revenue products to assess performance within their specific sales dynamics.
 
 - performance evaluation does not take into account the lead quality as data is not indicative of it. 
 
-**Future Work**
-
--
