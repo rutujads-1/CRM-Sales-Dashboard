@@ -44,9 +44,9 @@ In 2017, Coreline Hardware earned a revenue of ~**$10M** closing 4,238 out of 8,
 
 Quarterly analysis of the win rate and total opportunities shows that a **sharp increase in opportunity volume from Q1 to Q3 coincided with declining win rates**. The decline of win rate with increase in opportunity volume could be due to sales agents handling more deals simultaneously which impacted performance or the pipeline may have had a broader lead intake with lower quality leads. 
 
-Analysing product performance reveals that **GTX Pro** gets the **highest revenue- $ 3511K** followed by **GTX PLus Pro and MG Advance**. In terms of **order volume- GTX Basic** followed by **MG Special and GTX Pro** have the highest number of opportunities. Despite having a higher opportunity count,these products have a lesser average deal size, thus generating less total revenue inspite of having a good win rate. 
+Analysing product performance reveals that **GTX Pro** gets the **highest revenue- $ 3511K** followed by **GTX PLus Pro and MG Advanced**. In terms of **order volume- GTX Basic** followed by **MG Special and GTX Pro** have the highest number of opportunities. Despite having a higher opportunity count,these products have a lesser average deal size, thus generating less total revenue inspite of having a good win rate. 
 
-Products can be thus segmented into High revenue products- GTX PRO, GTX PRO PLUS, MG ADVANCE and High volume, low revenue, high opportunity- GTX BASIC, MG SPECIAL.
+Products can be thus segmented into High revenue products- GTX PRO, GTX PRO PLUS, MG ADVANCED and High volume, low revenue, high opportunity- GTX BASIC, MG SPECIAL.
 **GTK 500** is the product with the **lowest number of total opportunities** but has the **highest average deal size**. 
 
 This analysis further looks into the High revenue product segment as they contribute to ~84% of the total revenue earned so far. 
