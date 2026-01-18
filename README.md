@@ -27,9 +27,9 @@ This project performs initial sales analysis in Excel using pivot tables and use
 **The objective of this project is to identify high-value agent–product combinations and targeted coaching opportunities by evaluating sales efficiency within comparable opportunity exposure segments across key revenue-generating products.The North Star KPIs used are - Total Opportunities, Win Rate, Total Revenue and Average Deal Size.**
 
 
-Dashboard link:
+Dashboard link: https://github.com/rutujads-1/CRM-Sales-Dashboard/blob/main/CRM%20dashboard.pbix
 
-Excel Workbook Link:
+Excel Workbook Link: https://github.com/rutujads-1/CRM-Sales-Dashboard/blob/main/Basic%20Analysis.xlsx
 
 
 ## Data Structure and Overview
