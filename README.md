@@ -1,6 +1,25 @@
 # Coreline Hardware | B2B CRM Sales Pipeline Analysis
 
-## Project Background and Overview
+This project performs initial sales analysis in Excel using pivot tables and uses Power BI for visualization of CRM data for Coreline Hardware, highlighting sales efficiency, key KPIs, and coaching opportunities across agents and products.
+
+
+## Table of Contents
+
+- [Background and Overview](#background-and-overview)
+  
+- [Data Structure and Overview](#data-structure)
+  
+- [Executive Summary](#executive-summary)
+  
+- [Insights Deep Dive](#insights-deep-dive)
+  
+- [Recommendations](#recommendations)
+  
+- [Clarifying Questions and Assumptions and Caveats](#clarifying-questions-and-assumptions-and-caveats)
+
+
+
+## Background and Overview
 
 **Coreline Hardware** operates in a competitive environment with a focus on enterprise clients, supported by regional sales teams and a broad product catalog. The underlying dataset simulates CRM data and includes detailed records of customer accounts, products, sales agents, opportunity stages, and team structures.
 
@@ -29,7 +48,7 @@ Data Tables-
 
 
 
-## Executive summary
+## Executive Summary
 
 <p align="center">
 <img src="Images/quarterly trends.png" alt="Description of image" width=600>
@@ -233,7 +252,7 @@ Overall, **James Ascencio and Darcel Schlecht** emerge as the **top high-load, h
 
 
 
-## Clarifying Questions,Assumptions and Caveats
+## Clarifying Questions and Assumptions and Caveats
 
 Questions to Stakeholders prior to advancement-
 
