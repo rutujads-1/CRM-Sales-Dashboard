@@ -7,7 +7,7 @@ This project performs initial sales analysis in Excel using pivot tables and use
 
 - [Background and Overview](#background-and-overview)
   
-- [Data Structure and Overview](#data-structure)
+- [Data Structure and Overview](#data-structure-and-overview)
   
 - [Executive Summary](#executive-summary)
   
