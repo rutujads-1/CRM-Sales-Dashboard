@@ -2,10 +2,9 @@
 
 ## Project Background and Overview
 
-This Power BI dashboard was developed for **Coreline Hardware**, a computer hardware company, to provide strategic insights into its sales performance across regions, teams, and products.
-Coreline operates in a competitive environment with a focus on enterprise clients, supported by regional sales teams and a broad product catalog. The underlying dataset — sourced from **Maven Analytics** — simulates CRM data and includes detailed records of customer accounts, products, sales agents, opportunity stages, and team structures.
+**Coreline Hardware** operates in a competitive environment with a focus on enterprise clients, supported by regional sales teams and a broad product catalog. The underlying dataset simulates CRM data and includes detailed records of customer accounts, products, sales agents, opportunity stages, and team structures.
 
-**The objective of this project is to analyse sales performance across products, agents, and time in order to identify the key drivers of revenue, conversion efficiency, and sales effectiveness, and to surface actionable opportunities to improve overall sales performance using the North Star KPIs- Total Opportunities, Win Rate, Total Revenue and Average Deal Size.**
+**The objective of this project is to identify high-value agent–product combinations and targeted coaching opportunities by evaluating sales efficiency within comparable opportunity exposure segments across key revenue-generating products.The North Star KPIs used are - Total Opportunities, Win Rate, Total Revenue and Average Deal Size.**
 
 ## Data Structure and Overview
 
@@ -31,14 +30,14 @@ Data Tables-
 
 ## Executive summary
 
-In 2017, Coreline Hardware earned a revenue of ~$10M closing 4,238 out of 8,800 sales opportunities with a win rate of ~48% . Approximately 24% of opportunities still open,indicating an active and ongoing sales pipeline.
+In 2017, Coreline Hardware earned a revenue of ~**$10M** closing 4,238 out of 8,800 sales opportunities with a **win rate of ~48%** . Approximately **24%** of **opportunities still open**,indicating an active and ongoing sales pipeline.
 
-Quarterly analysis of the win rate and total opportunities shows that a sharp increase in opportunity volume from Q1 to Q3 coincided with declining win rates. The parallel movement suggests a volume-driven conversion trade-off rather than agent- or product-specific issues. Win rates stabilised in Q4 as opportunity volumes moderated.
+Quarterly analysis of the win rate and total opportunities shows that a **sharp increase in opportunity volume from Q1 to Q3 coincided with declining win rates**. The decline of win rate with increase in opportunity volume could be due to sales agents handling more deals simultaneously which impacted performance or the pipeline may have had a broader lead intake with lower quality leads. 
 
-Analysing product performance reveals that GTXPro gets the highest revenue- $ 3511K followed by GTX PLus Pro and MG Advance. In terms of order volume- GTX Basic followed by MG Special and GTX Pro have the highest number of opportunities.Despite having a higher opportunity count,these products have a lesser average deal size, thus generating less total revenue inspite of having a good win rate. 
+Analysing product performance reveals that **GTX Pro** gets the **highest revenue- $ 3511K** followed by **GTX PLus Pro and MG Advance**. In terms of **order volume- GTX Basic** followed by **MG Special and GTX Pro** have the highest number of opportunities. Despite having a higher opportunity count,these products have a lesser average deal size, thus generating less total revenue inspite of having a good win rate. 
 
-Products can be thus segmented into High revenue products- GTX PRO, GTX PRO PLUS, MG ADVANCE and High volume, low revenue- GTX BASIC, MG SPECIAL.
-GTK 500 is the product with the lowest number of total opportunities but has the highest average deal size. 
+Products can be thus segmented into High revenue products- GTX PRO, GTX PRO PLUS, MG ADVANCE and High volume, low revenue, high opportunity- GTX BASIC, MG SPECIAL.
+**GTK 500** is the product with the **lowest number of total opportunities** but has the **highest average deal size**. 
 
 This analysis further looks into the High revenue product segment as they contribute to ~84% of the total revenue earned so far. 
 
@@ -58,7 +57,7 @@ This analysis further looks into the High revenue product segment as they contri
 
 ### Product Performance
 
-GTX Pro generates the highest revenue of $ 3511K followed by GTX Plus Pro at $ 2630K and MG Advanced at $2216K.Win rates across these high revenue generating products are comparable, and so are average days to close. Differences are in the number of opportunities and averag deal size. If we can try and get more opportunities for the GTX plus pro product then revenue would be higher because on an average per deal we are getting a higher value.
+GTX Pro generates the highest revenue of $ 3511K followed by GTX Plus Pro at $ 2630K and MG Advanced at $2216K.Win rates across these high revenue generating products are comparable, and so are average days to close. Differences are in the number of opportunities and average deal size. If the company gets more opportunities for GTX plus pro then revenue would be significantly impacted as on an average per deal generates a higher value.
 
 These 3 products contribute to a total of $ 8357K which is ~84% of the revenue making them the drivers of total revenue. 
 
@@ -66,7 +65,9 @@ Of all the other products, GTK 500 has a particulary low opportunity count of 40
 
 
 
-#### Product x Agent Performance 
+### Product x Agent Performance 
+
+
 
 **GTX Plus Pro**
 
@@ -212,11 +213,11 @@ Questions to Stakeholders prior to advancement-
 
 -All records, including those in the Prospecting stage, are considered part of the total opportunity count unless filtered explicitly.
 
--Win Rate and Revenue are used as primary performance KPIs due to the absence of profit or cost data.
-
 -Each opportunity is assigned to a sales agent and evaluated based on their outcomes.
 
 -“GTX Pro” and “GTXPro” refer to the same product and have been treated as such during data modeling.
+
+
 
 **Caveats**
 
@@ -224,7 +225,10 @@ Questions to Stakeholders prior to advancement-
 
 -Date inconsistencies between engagement and closing phases (e.g., blanks or out-of-sequence records) may impact timeline analysis.
 
--Open opportunities (with no closing date) result in blanks in quarter-based slicers and charts
-
 -While agents may handle additional product portfolios, this analysis intentionally focuses on high-revenue products to assess performance within their specific sales dynamics.
 
+- performance evaluation does not take into account the lead quality as data is not indicative of it. 
+
+**Future Work**
+
+-
